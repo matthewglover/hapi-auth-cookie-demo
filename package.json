@@ -1,0 +1,15 @@
+{
+  "name": "hapi-auth-cookie-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matt Glover (https://github.com/matthewglover)",
+  "license": "MIT",
+  "dependencies": {
+    "hapi": "^16.0.0",
+    "hapi-auth-cookie": "^6.1.1"
+  }
+}
